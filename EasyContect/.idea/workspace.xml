@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="708eac32-54c9-4ebe-942e-a57983b97e0e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ffsbHmcFMJlL9dgc344C5QJDSP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="EasyContect" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="img" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="EasyContect" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/img.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="EasyContect" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ccruntests" factoryName="Run Study Tests">
+      <module name="EasyContect" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <option name="studyTest" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="EasyContect" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="EasyContect" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.img" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="289" y="-875" key="#Notifications" timestamp="1596638040955">
+      <screen x="-271" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="289" y="-875" key="#Notifications/0.0.1280.800/-271.-1080.1920.1080@-271.-1080.1920.1080" timestamp="1596638040955" />
+    <state x="104" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596621199954">
+      <screen x="0" y="23" width="1280" height="716" />
+    </state>
+    <state x="104" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.716@0.23.1280.716" timestamp="1596621199954" />
+    <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596623831580">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800/-271.-1080.1920.1080@0.0.1280.800" timestamp="1596623831580" />
+    <state x="483" y="-620" key="Github.CreateGistDialog" timestamp="1601396931546">
+      <screen x="-286" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="483" y="-620" key="Github.CreateGistDialog/0.0.1280.800/-286.-1080.1920.1080@-286.-1080.1920.1080" timestamp="1601396931546" />
+    <state width="1899" height="366" key="GridCell.Tab.0.bottom" timestamp="1596670362412">
+      <screen x="-271" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="366" key="GridCell.Tab.0.bottom/0.0.1280.800/-271.-1080.1920.1080@-271.-1080.1920.1080" timestamp="1596670362412" />
+    <state width="1259" height="259" key="GridCell.Tab.0.bottom/0.0.1280.800/-271.-1080.1920.1080@0.0.1280.800" timestamp="1596624001749" />
+    <state width="1259" height="204" key="GridCell.Tab.0.bottom/0.23.1280.716@0.23.1280.716" timestamp="1596621570493" />
+    <state width="933" height="214" key="GridCell.Tab.0.bottom/0.23.1280.777/-271.-1080.1920.1080@-271.-1080.1920.1080" timestamp="1596639552549" />
+    <state width="1899" height="366" key="GridCell.Tab.0.center" timestamp="1596670362410">
+      <screen x="-271" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="366" key="GridCell.Tab.0.center/0.0.1280.800/-271.-1080.1920.1080@-271.-1080.1920.1080" timestamp="1596670362410" />
+    <state width="1259" height="259" key="GridCell.Tab.0.center/0.0.1280.800/-271.-1080.1920.1080@0.0.1280.800" timestamp="1596624001746" />
+    <state width="1259" height="204" key="GridCell.Tab.0.center/0.23.1280.716@0.23.1280.716" timestamp="1596621570493" />
+    <state width="933" height="214" key="GridCell.Tab.0.center/0.23.1280.777/-271.-1080.1920.1080@-271.-1080.1920.1080" timestamp="1596639552546" />
+    <state width="1899" height="366" key="GridCell.Tab.0.left" timestamp="1596670362409">
+      <screen x="-271" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="366" key="GridCell.Tab.0.left/0.0.1280.800/-271.-1080.1920.1080@-271.-1080.1920.1080" timestamp="1596670362409" />
+    <state width="1259" height="259" key="GridCell.Tab.0.left/0.0.1280.800/-271.-1080.1920.1080@0.0.1280.800" timestamp="1596624001744" />
+    <state width="1259" height="204" key="GridCell.Tab.0.left/0.23.1280.716@0.23.1280.716" timestamp="1596621570492" />
+    <state width="933" height="214" key="GridCell.Tab.0.left/0.23.1280.777/-271.-1080.1920.1080@-271.-1080.1920.1080" timestamp="1596639552544" />
+    <state width="1899" height="366" key="GridCell.Tab.0.right" timestamp="1596670362411">
+      <screen x="-271" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="366" key="GridCell.Tab.0.right/0.0.1280.800/-271.-1080.1920.1080@-271.-1080.1920.1080" timestamp="1596670362411" />
+    <state width="1259" height="259" key="GridCell.Tab.0.right/0.0.1280.800/-271.-1080.1920.1080@0.0.1280.800" timestamp="1596624001748" />
+    <state width="1259" height="204" key="GridCell.Tab.0.right/0.23.1280.716@0.23.1280.716" timestamp="1596621570493" />
+    <state width="933" height="214" key="GridCell.Tab.0.right/0.23.1280.777/-271.-1080.1920.1080@-271.-1080.1920.1080" timestamp="1596639552547" />
+    <state width="1899" height="366" key="GridCell.Tab.1.bottom" timestamp="1596670362408">
+      <screen x="-271" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="366" key="GridCell.Tab.1.bottom/0.0.1280.800/-271.-1080.1920.1080@-271.-1080.1920.1080" timestamp="1596670362408" />
+    <state width="1899" height="366" key="GridCell.Tab.1.center" timestamp="1596670362407">
+      <screen x="-271" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="366" key="GridCell.Tab.1.center/0.0.1280.800/-271.-1080.1920.1080@-271.-1080.1920.1080" timestamp="1596670362407" />
+    <state width="1899" height="366" key="GridCell.Tab.1.left" timestamp="1596670362406">
+      <screen x="-271" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="366" key="GridCell.Tab.1.left/0.0.1280.800/-271.-1080.1920.1080@-271.-1080.1920.1080" timestamp="1596670362406" />
+    <state width="1899" height="366" key="GridCell.Tab.1.right" timestamp="1596670362408">
+      <screen x="-271" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="366" key="GridCell.Tab.1.right/0.0.1280.800/-271.-1080.1920.1080@-271.-1080.1920.1080" timestamp="1596670362408" />
+    <state x="-59" y="-1057" width="997" height="722" key="SettingsEditor" timestamp="1596669127317">
+      <screen x="-271" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="-59" y="-1057" key="SettingsEditor/0.0.1280.800/-271.-1080.1920.1080@-271.-1080.1920.1080" timestamp="1596669127317" />
+    <state x="141" y="23" width="997" height="716" key="SettingsEditor/0.23.1280.716@0.23.1280.716" timestamp="1596621088064" />
+    <state x="141" y="23" key="SettingsEditor/0.23.1280.717/-271.-1057.1920.1057@0.23.1280.717" timestamp="1596623454576" />
+    <state x="-59" y="-1057" width="997" height="722" key="SettingsEditor/0.23.1280.777/-271.-1080.1920.1080@-271.-1080.1920.1080" timestamp="1596645280965" />
+  </component>
+</project>
